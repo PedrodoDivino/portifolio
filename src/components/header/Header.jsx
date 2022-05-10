@@ -1,6 +1,6 @@
 import React from 'react'
 import   CTA   from './CTA'
-import eu from '../../assets/eu.jpg'
+import eu from '../../assets/eu.png'
 import HeaderSocial from './HeaderSocial'
 export const Header = () => {
   return (
