@@ -9,7 +9,7 @@ import {AiOutlineMessage} from 'react-icons/ai'
 export const Nav = () => {
   return (
     <nav>
-      <a href="#"><AiOutlineHome /></a>
+      <a href="#" className="active"><AiOutlineHome /></a>
       <a href="#about"><AiOutlineUser /></a>
       <a href="#experience"><RiBook2Line /></a>
       <a href="#services"><FaRegHandshake /></a>
