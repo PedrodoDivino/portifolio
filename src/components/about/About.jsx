@@ -13,7 +13,7 @@ export const About = () => {
       <h2>Sobre mim</h2>
       <div className="container about__container">
         <div className="about__me">
-          <div className="bout__me-image">
+          <div className="about__me-image">
             <img src={eu}alt="" />
           </div>
         </div>
