@@ -18,17 +18,10 @@ export const Portifolio = () => {
 
           </div>
           <h3>Esse vai ser o titulo do meu portifólio</h3>
-        <a href="https://github.com/PedrodoDivino" className='btn'>Github</a>
+       <div className="portifolio__item-cta">
+       <a href="https://github.com/PedrodoDivino" className='btn'>Github</a>
         <a href="https://dribbble.com/alien_pixels" target="_blank" className='btn btn-primary'>Veja uma demonstração</a>
-        </article>
-        <article className="portifolio__item">
-          <div className="portifolio__item-image">
-            <img src={portfolio1} alt="" />
-
-          </div>
-          <h3>Esse vai ser o titulo do meu portifólio</h3>
-        <a href="https://github.com/PedrodoDivino" className='btn'>Github</a>
-        <a href="https://dribbble.com/alien_pixels" target="_blank" className='btn btn-primary'>Veja uma demonstração</a>
+       </div>
         </article>
         <article className="portifolio__item">
           <div className="portifolio__item-image">
@@ -36,8 +29,10 @@ export const Portifolio = () => {
 
           </div>
           <h3>Esse vai ser o titulo do meu portifólio</h3>
-        <a href="https://github.com/PedrodoDivino" className='btn'>Github</a>
+       <div className="portifolio__item-cta">
+       <a href="https://github.com/PedrodoDivino" className='btn'>Github</a>
         <a href="https://dribbble.com/alien_pixels" target="_blank" className='btn btn-primary'>Veja uma demonstração</a>
+       </div>
         </article>
         <article className="portifolio__item">
           <div className="portifolio__item-image">
@@ -45,8 +40,10 @@ export const Portifolio = () => {
 
           </div>
           <h3>Esse vai ser o titulo do meu portifólio</h3>
-        <a href="https://github.com/PedrodoDivino" className='btn'>Github</a>
+       <div className="portifolio__item-cta">
+       <a href="https://github.com/PedrodoDivino" className='btn'>Github</a>
         <a href="https://dribbble.com/alien_pixels" target="_blank" className='btn btn-primary'>Veja uma demonstração</a>
+       </div>
         </article>
         <article className="portifolio__item">
           <div className="portifolio__item-image">
@@ -54,8 +51,10 @@ export const Portifolio = () => {
 
           </div>
           <h3>Esse vai ser o titulo do meu portifólio</h3>
-        <a href="https://github.com/PedrodoDivino" className='btn'>Github</a>
+       <div className="portifolio__item-cta">
+       <a href="https://github.com/PedrodoDivino" className='btn'>Github</a>
         <a href="https://dribbble.com/alien_pixels" target="_blank" className='btn btn-primary'>Veja uma demonstração</a>
+       </div>
         </article>
         <article className="portifolio__item">
           <div className="portifolio__item-image">
@@ -63,9 +62,21 @@ export const Portifolio = () => {
 
           </div>
           <h3>Esse vai ser o titulo do meu portifólio</h3>
-        <a href="https://github.com/PedrodoDivino" className='btn'>Github</a>
+       <div className="portifolio__item-cta">
+       <a href="https://github.com/PedrodoDivino" className='btn'>Github</a>
         <a href="https://dribbble.com/alien_pixels" target="_blank" className='btn btn-primary'>Veja uma demonstração</a>
-        
+       </div>
+        </article>
+        <article className="portifolio__item">
+          <div className="portifolio__item-image">
+            <img src={portfolio6} alt="" />
+
+          </div>
+          <h3>Esse vai ser o titulo do meu portifólio</h3>
+       <div className="portifolio__item-cta">
+       <a href="https://github.com/PedrodoDivino" className='btn'>Github</a>
+        <a href="https://dribbble.com/alien_pixels" target="_blank" className='btn btn-primary'>Veja uma demonstração</a>
+       </div>
         </article>
       </div>
       </section>
