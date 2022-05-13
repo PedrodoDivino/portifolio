@@ -26,7 +26,7 @@ nav a:hover{
     color:var(--color-withe);
 }
 nav a.active{
-    background: var(--color-bg);
-    color:var(--color-withe);
+    background: var(--color-primary);
+    color:var(--color-bg);
     border-radius: 3rem;
 }

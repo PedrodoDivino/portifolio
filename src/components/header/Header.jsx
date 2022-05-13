@@ -15,7 +15,7 @@ export const Header = () => {
       <div className="eu">
         <img src={eu} alt="" />
       </div>
-      <a href="contact" className='scroll__down'>Role para baixo</a>
+      <a href="#contact" className='scroll__down'>Role para baixo</a>
     </div>
   </header>
   )
