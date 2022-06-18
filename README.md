@@ -1,3 +1,10 @@
+Portifólio: 
+Adicionei neste portifólio todas as funcionalidades que sei até o momento. 
+Os textos que estaõ com lorem claramente são apenas para dar exemplos.
+Fiz em React-Js.
+Todo projeto sempre tem que melhorar algo, seja aplicando técnicas de clean Code, seja adicionando e atualizando novas libs, pensnado nisso, quero dizer que esse projeto não é uma versão final, mas pelo menos um MVP dos meus conhecimentos com React-js. 
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
